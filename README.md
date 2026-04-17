@@ -34,7 +34,7 @@ A comprehensive fleet management solution that allows easy monitoring and contro
 ## 📝 License
 
 This project is intended **for educational purposes only** as part of the **INT220 and INT219** combined coursework.  
-**Not for commercial use.**
+**Not for commercial use**
 
 ---
 
