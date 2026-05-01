@@ -1,7 +1,7 @@
 # 🚗 Fleet Management System
 
 > **Note:** This project is a **class assignment** for **INT220** and **INT219** in the **4th semester**.  
-> The application is developed using **HTML**, **Tailwind CSS**, and **JavaScript** for the frontend, with **PHP** as the backend and **MySQL** as the database.
+> The application is developed using **HTML**, **Tailwind CSS**, and **JavaScript** for the frontend, with **PHP** as the backend and **MySQL** as the database
 
 A comprehensive fleet management solution that allows easy monitoring and control of vehicles and drivers in a transport organization.
 
